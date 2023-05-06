@@ -40,7 +40,7 @@ params:
     sidebar:
         compact: false
         emoji: 💻
-        subtitle: Data enthusiast x Software engineer
+        subtitle: Data Engineer
         avatar:
             enabled: true
             local: false
